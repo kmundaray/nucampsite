@@ -2,7 +2,9 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: "Lobster", cursive;
 }
 
@@ -33,4 +35,14 @@ footer {
 
 .navbar {
     background-color: #901cad;
+}
+
+.tab-content {
+    border: 1px solid #ddd;
+    border-top: none;
+    padding: 10px;
+}
+
+.accordion-button {
+    background-color: #d3d3d3;
 }
