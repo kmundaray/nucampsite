@@ -46,3 +46,11 @@ footer {
 .accordion-button {
     background-color: #d3d3d3;
 }
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: #5637DD solid;
+}
